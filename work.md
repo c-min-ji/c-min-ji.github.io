@@ -17,6 +17,11 @@ items:
     image:
       src: /assets/img/work/water.png
       alt: water
+    description: Like Lion (2020.03 - 2021.12)
+  - title: My Experience 03
+    image:
+      src: /assets/img/work/sand.png
+      alt: water
     description: Ahnlab (2021.06 - 2021.12) INTERN
 ---
 
